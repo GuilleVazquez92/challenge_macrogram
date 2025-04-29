@@ -1,10 +1,10 @@
 # Proyecto Challenge One API
 
 ## Documentacion de la API
-- **Home / Install:** https://github.com/GuilleVazquez92/challenge_one/wiki
-- **API End Points:** https://github.com/GuilleVazquez92/challenge_one/wiki/API-End-Points
-- **Errors:** https://github.com/GuilleVazquez92/challenge_one/wiki/Errors
-- **Filters:** https://github.com/GuilleVazquez92/challenge_one/wiki/Filters
+- **Home / Install:** https://github.com/GuilleVazquez92/challenge_macrogram/wiki
+- **API End Points:** https://github.com/GuilleVazquez92/challenge_macrogram/wiki/API-End-Points
+- **Errors:** https://github.com/GuilleVazquez92/challenge_macrogram/wiki/Errors
+- **Filters:** https://github.com/GuilleVazquez92/challenge_macrogram/wiki/Filters
 
 ## Credenciales para login
 - **User:** user@macrogram.com
